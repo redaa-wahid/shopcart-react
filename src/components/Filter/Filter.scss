@@ -1,0 +1,19 @@
+.Filter-wraper{
+    border-radius: 5px;
+    border: 1px solid #ddd;
+    
+    h2{
+        color: white;
+    }
+.check-size{
+    >div{
+        margin-top: 20px;
+    }
+    select{
+        cursor: pointer;
+        border: 1px solid #ddd;
+        outline: none;
+        box-shadow: 2px 5px 10 10px #ddd;
+    }
+}
+}
